@@ -1,0 +1,60 @@
+/*
+
+Theme name: WpSearch
+
+Theme url: http://www.eltonkola.com
+
+Description: Simple search with wp
+
+Version: 1.0
+
+Author: <a href="http://www.eltonkola.com" title="Elton Kola">Elton Kola</a>
+
+Author url: http://www.eltonkola.com
+
+Tags: 1 colonne, clean, minimal, search
+
+*/
+
+
+
+/*
+wpsearch
+*/
+
+.zurb-footer-bottom {
+    background: #333;
+    padding: 24px 0 10px;
+}
+.zurb-footer-bottom {
+    background: #333;
+    padding: 24px 0 10px;
+}
+
+
+@charset "UTF-8";
+.hero {
+  /*
+  background: url("http://static.pexels.com/wp-content/uploads/2014/07/beach-coast-holiday-2190-825x550.jpg") no-repeat center center;
+  */
+   background: #f6f6f6;
+  background-size: cover;
+  height: 180px;
+      padding: 30px 0 40px;
+  overflow: hidden; }
+
+
+  .hero h1 {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-10%);
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%); }
+
+
+.post{
+       padding: 10px 0 5px;
+
+}
